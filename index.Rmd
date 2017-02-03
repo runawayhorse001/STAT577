@@ -1,0 +1,12 @@
+---
+title: "STAT 577: Data Mining Methds & Application"
+author: "Ming Chen & Wenqiang Feng"
+date: "1/27/2017"
+output: html_document
+---
+This is the shared repository for STAT 577 class at The University of Tennessee, Knoxville. This shared repository contains thier  notes, homework solutions, project solutions. And it also contains some contents from the textbook [An Introduction to Statistical Learning with Applications in R](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Fourth%20Printing.pdf).
+
+Ming and Wenqiang want to use this shared repository to share how to use R, Rmarkdown and Github to do the statistics homework problems. Please be aware, however, that the note contains typos as well as incorrect or inaccurate solutions. 
+
+Last but not least: This should go without saying, but I’ll include it within this point, absolutely **do not plagiarize**. 
+
