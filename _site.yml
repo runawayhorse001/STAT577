@@ -1,7 +1,7 @@
 name: "my-website"
 output_dir: "docs"
 navbar:
-  title: "STAT 537: Statistics for Research I"
+  title: "STAT 577: Data Mining Methds & Application"
   type: inverse
   left:
     - text: "Home"
