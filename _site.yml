@@ -49,6 +49,8 @@ navbar:
       icon: fa-info
       href: about.html          
   right:
+    - icon: fa-github
+      href: https://github.com/runawayhorse001/STAT577  
     - icon: fa-question fa-lg
       href: http://web.utk.edu/~wfeng1
 output:
