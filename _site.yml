@@ -1,7 +1,7 @@
-name: "my-website"
+name: "Data Mining Methds & Application"
 output_dir: "docs"
 navbar:
-  title: "STAT 577: Data Mining Methds & Application"
+  title: "Data Mining Methds & Application"
   type: inverse
   left:
     - text: "Home"
